@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fp-ts": "^2.0.5",
+    "fp-ts-contrib": "^0.1.2"
+  }
+}
